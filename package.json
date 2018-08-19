@@ -1,0 +1,22 @@
+{
+  "name": "loftschool-nodejs-hw1",
+  "version": "1.0.0",
+  "description": "Homework #1 for Loftschool's Node.js course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeriynefyodov/loftschool-nodejs-hw1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valeriynefyodov/loftschool-nodejs-hw1/issues"
+  },
+  "homepage": "https://github.com/valeriynefyodov/loftschool-nodejs-hw1#readme",
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0"
+  }
+}
